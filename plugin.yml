@@ -1,0 +1,9 @@
+main: AutoSmelt.Main
+name: AutoSmelt
+version: 1.0
+author: Vaytor
+api-version: 1.16
+
+commands:
+  autosmelt:
+  EnchantAutoSmelt:
