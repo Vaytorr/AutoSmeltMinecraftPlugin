@@ -1,4 +1,4 @@
-# AutoSmeltMinecraftPlugin
+# Auto Smelt Minecraft Plugin
 
 ***The AutoSmelt enchantment automatically melts Iron and Gold ores for you***
 
